@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/justimnax/dad.git/static/css/main.27cc9fee.css",
+    "main.js": "/justimnax/dad.git/static/js/main.a1e5e693.js",
+    "static/media/preloader.gif": "/justimnax/dad.git/static/media/preloader.a6525050b19ec22d72cd.gif",
+    "static/media/login-img.svg": "/justimnax/dad.git/static/media/login-img.45d3b74fbb4ac483314eef377e006a54.svg",
+    "index.html": "/justimnax/dad.git/index.html",
+    "main.27cc9fee.css.map": "/justimnax/dad.git/static/css/main.27cc9fee.css.map",
+    "main.a1e5e693.js.map": "/justimnax/dad.git/static/js/main.a1e5e693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27cc9fee.css",
+    "static/js/main.a1e5e693.js"
+  ]
+}
